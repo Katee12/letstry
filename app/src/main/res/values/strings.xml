@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">letstry</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="lessons">Уроки</string>
+    <string name="account">Аккаунт</string>
+    <string name="main">Выберите уровень языка</string>
+    <string name="choicelesson">Выберите урок</string>
+</resources>
